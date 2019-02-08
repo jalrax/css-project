@@ -1,0 +1,11 @@
+{
+  "name": "css-project",
+  "version": "1.0.0",
+  "homepage": "https://jalrax.github.io/css-project/",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }
+}
