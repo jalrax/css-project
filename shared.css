@@ -9,15 +9,22 @@
   box-sizing: border-box;
 }
 
+html {
+  height: 100%;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
   overflow-x: hidden;
+  display: grid;
+  grid-template-rows: 3.5rem auto fit-content(8rem);
+  grid-template-areas: "header" "main" "footer";
+  height: 100%;
 }
 
 main {
-  min-height: calc(100vh - 3.5rem - 8rem - 3px);
-  margin-top: 3.5rem;
+  grid-area: main;
 }
 
 .backdrop {
@@ -42,6 +49,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  grid-area: header;
 }
 .main-header .main-header__brand {
   color: var(--dark-green);
@@ -164,6 +172,7 @@ main {
   background-color: black;
   margin-top: 3rem;
   padding: 2rem;
+  grid-area: footer;
 }
 .main-footer .main-footer__links {
   margin: 0;
