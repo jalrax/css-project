@@ -3,9 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="d464d917-8901-4aaa-8a55-0bcfb7e9c212" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customers/customers.css" beforeDir="false" afterPath="$PROJECT_DIR$/customers/customers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/packages.css" beforeDir="false" afterPath="$PROJECT_DIR$/packages/packages.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/shared.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start-hosting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/start-hosting/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start-hosting/start-hosting.css" beforeDir="false" afterPath="$PROJECT_DIR$/start-hosting/start-hosting.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/shared.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/shared.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared.prod.css" beforeDir="false" afterPath="$PROJECT_DIR$/shared.prod.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared.scss" beforeDir="false" afterPath="$PROJECT_DIR$/shared.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,35 +23,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/start-hosting/start-hosting.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/start-hosting/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-138">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="358">
+              <caret line="369" column="35" selection-start-line="369" selection-start-column="35" selection-end-line="369" selection-end-column="35" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#svg#0;n#div#0;n#li#1;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#svg#0;n#div#0;n#li#2;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="133" column="5" lean-forward="true" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customers/customers.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="160" column="13" selection-start-line="160" selection-start-column="13" selection-end-line="160" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/packages.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shared.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -66,6 +98,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>plan__l</find>
+      <find>back</find>
+      <find>backd</find>
+      <find>cta</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,30 +122,31 @@
         <option value="$PROJECT_DIR$/../css-and-js-04-adding-a-side-navigation-html-css-code/shared.css" />
         <option value="$PROJECT_DIR$/../toggle-button/button.html" />
         <option value="$PROJECT_DIR$/../toggle-button/button.css" />
-        <option value="$PROJECT_DIR$/shared.js" />
+        <option value="$PROJECT_DIR$/start-hosting/start-hosting.css" />
+        <option value="$PROJECT_DIR$/start-hosting/index.html" />
         <option value="$PROJECT_DIR$/packages/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/packages/packages.css" />
-        <option value="$PROJECT_DIR$/customers/customers.css" />
         <option value="$PROJECT_DIR$/customers/index.html" />
-        <option value="$PROJECT_DIR$/shared.prod.css" />
         <option value="$PROJECT_DIR$/shared.sass.css" />
         <option value="$PROJECT_DIR$/shared.sass" />
         <option value="$PROJECT_DIR$/shared.css" />
-        <option value="$PROJECT_DIR$/shared.scss" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/main.css" />
         <option value="$PROJECT_DIR$/main.css" />
-        <option value="$PROJECT_DIR$/start-hosting/index.html" />
-        <option value="$PROJECT_DIR$/start-hosting/start-hosting.css" />
+        <option value="$PROJECT_DIR$/shared.prod.css" />
+        <option value="$PROJECT_DIR$/shared.scss" />
+        <option value="$PROJECT_DIR$/customers/customers.css" />
+        <option value="$PROJECT_DIR$/packages/packages.css" />
+        <option value="$PROJECT_DIR$/shared.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="372" />
+    <option name="x" value="292" />
+    <option name="y" value="25" />
+    <option name="width" value="1400" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -128,7 +164,12 @@
             <path>
               <item name="css-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="css-project" type="462c0819:PsiDirectoryNode" />
-              <item name="start-hosting" type="462c0819:PsiDirectoryNode" />
+              <item name="customers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="css-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css-project" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,11 +182,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Telegram Desktop/html-test" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/grid-05-assignment-1-start/grid-05-assignment-1-start" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,51 +229,55 @@
       <workItem from="1549359672583" duration="8378000" />
       <workItem from="1549445933627" duration="10654000" />
       <workItem from="1549533875437" duration="7511000" />
-      <workItem from="1549641585589" duration="3855000" />
-      <workItem from="1549798062062" duration="48000" />
-      <workItem from="1549798209907" duration="15000" />
-      <workItem from="1550263570070" duration="338000" />
-      <workItem from="1550319813285" duration="3323000" />
-      <workItem from="1550406592298" duration="3775000" />
+      <workItem from="1549641585589" duration="2793000" />
+      <workItem from="1550139947677" duration="1218000" />
+      <workItem from="1550153659933" duration="157000" />
+      <workItem from="1550226158013" duration="5929000" />
+      <workItem from="1550648880352" duration="758000" />
+      <workItem from="1550651664144" duration="3950000" />
+      <workItem from="1550657024793" duration="64000" />
+      <workItem from="1550657107881" duration="12593000" />
     </task>
-    <task id="LOCAL-00001" summary="fixes">
-      <created>1549646678841</created>
+    <task id="LOCAL-00001" summary="added grids">
+      <created>1550246902208</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1549646678841</updated>
+      <updated>1550246902208</updated>
     </task>
-    <task id="LOCAL-00002" summary="fixes">
-      <created>1549647095306</created>
+    <task id="LOCAL-00002" summary="added some transformations">
+      <created>1550656141019</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1549647095306</updated>
+      <updated>1550656141020</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124995000" />
+    <option name="totallyTimeSpent" value="141103000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2034188" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2025862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.23247863" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297414" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32991454" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -241,59 +287,28 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
+    <MESSAGE value="added grids" />
+    <MESSAGE value="added some transformations" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some transformations" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../practicing-basics-01.01-html-code-plans/index.html" />
     <entry file="file://$PROJECT_DIR$/../practicing-basics-04-html-code-core-features/index.html" />
     <entry file="file://$PROJECT_DIR$/../practicing-basics-05.01-html-code-footer/index.html" />
     <entry file="file://$PROJECT_DIR$/../practicing-basics-06.01-html-code-challenge/index.html" />
-    <entry file="file://$PROJECT_DIR$/../background-images-05.01-working-on-the-image-layout-css-code/customers.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../HTML_to_SVG (1).svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../background-images-05.01-working-on-the-image-layout-css-code/customers.css" />
+    <entry file="file://$PROJECT_DIR$/../HTML_to_SVG (1).svg" />
     <entry file="file://$PROJECT_DIR$/images/svg1.html" />
     <entry file="file://$PROJECT_DIR$/images/svg2.html" />
     <entry file="file://$PROJECT_DIR$/images/svg3.html" />
-    <entry file="file://$PROJECT_DIR$/../css-and-js-01.01-adding-a-modal-html-and-css-code/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../css-and-js-01.01-adding-a-modal-html-and-css-code/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../css-and-js-04-adding-a-side-navigation-html-css-code/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../css-and-js-04-adding-a-side-navigation-html-css-code/shared.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../toggle-button/button.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../toggle-button/button.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../responsive-09-project-finished/packages/packages.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="94" selection-start-line="94" selection-end-line="95" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../responsive-09-project-finished/customers/customers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1633">
-          <caret line="71" column="29" lean-forward="true" selection-end-line="83" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../css-and-js-01.01-adding-a-modal-html-and-css-code/index.html" />
+    <entry file="file://$PROJECT_DIR$/../css-and-js-01.01-adding-a-modal-html-and-css-code/main.css" />
+    <entry file="file://$PROJECT_DIR$/../css-and-js-04-adding-a-side-navigation-html-css-code/index.html" />
+    <entry file="file://$PROJECT_DIR$/../css-and-js-04-adding-a-side-navigation-html-css-code/shared.css" />
+    <entry file="file://$PROJECT_DIR$/../toggle-button/button.css" />
+    <entry file="file://$PROJECT_DIR$/../toggle-button/button.html" />
+    <entry file="file://$PROJECT_DIR$/../responsive-09-project-finished/packages/packages.css" />
+    <entry file="file://$PROJECT_DIR$/../responsive-09-project-finished/customers/customers.css" />
     <entry file="file://$PROJECT_DIR$/packages/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -315,65 +330,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shared.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/customers/customers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2185">
-          <caret line="95" column="1" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/packages.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1219">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shared.prod.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="45" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/start-hosting/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shared.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/shared.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.css">
+    <entry file="file://$PROJECT_DIR$/start-hosting/start-hosting.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="218" column="5" selection-start-line="218" selection-start-column="5" selection-end-line="218" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shared.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="256" column="19" selection-start-line="256" selection-start-column="19" selection-end-line="256" selection-end-column="19" />
+        <state relative-caret-position="990">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="358">
+          <caret line="369" column="35" selection-start-line="369" selection-start-column="35" selection-end-line="369" selection-end-column="35" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
@@ -383,17 +370,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start-hosting/index.html">
+    <entry file="file://$PROJECT_DIR$/shared.prod.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        <state relative-caret-position="322">
+          <caret line="25" selection-start-line="25" selection-end-line="34" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start-hosting/start-hosting.css">
+    <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+        <state relative-caret-position="338">
+          <caret line="160" column="13" selection-start-line="160" selection-start-column="13" selection-end-line="160" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customers/customers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/packages.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="133" column="5" lean-forward="true" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
